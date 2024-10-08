@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me... 👋
 
 <!--
 **XIO-CIEL/XIO-CIEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
